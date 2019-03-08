@@ -1,0 +1,54 @@
+//********************************************************//
+!!!! IMPORTANT !!!! You also need "Launcher.ini" !!!!
+//********************************************************//
+Place this (Apps.txt) in a folder
+(..//Rainmeter/Skins/Launcher)
+Along with Launcher.ini
+//********************************************************//
+ 
+[Variables]
+
+App1="Google Chrome"
+App1Path="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+
+App2="Steam"
+App2Path="C:\Program Files (x86)\Steam\Steam.exe"
+ 
+App3="Origin"
+App3Path="C:\Program Files (x86)\Origin\Origin.exe"
+
+App4="Media Folder"
+App4Path="E:\Users\Minivan\Desktop\Media"
+
+App5="League of Legends"
+App5Path="F:\Games\League of Legends\LeagueClient.exe"
+
+App6="Sea of Thieves"
+App6Path="C:\Users\MinivanX\Documents\SoT.lnk"
+
+App7="Arch Linux - WSL"
+App7Path="C:\wsl-terminal\wsl-terminal.lnk"
+
+App8="Rocket League"
+App8Path="C:\Resolution\1-Player.bat"
+
+App9="Terraria"
+App9Path="steam://rungameid/105600"
+
+App10="Discord"
+App10Path="C:\Users\MinivanX\AppData\Local\Discord\Update.exe --processStart Discord.exe"
+
+App11="Battle.NET"
+App11Path="C:\Program Files (x86)\Battle.net\Battle.net Launcher.exe"
+
+App12="Atom"
+App12Path="C:\Launcher-Shortcuts\Atom.lnk"
+
+App13="Old School RuneScape"
+App13Path="C:\Launcher-Shortcuts\OSRS.lnk"
+
+App14="WhatsApp"
+App14Path="C:\Launcher-Shortcuts\WhatsApp.lnk"
+
+App15="Recycle Bin"
+App15Path="::{645FF040-5081-101B-9F08-00AA002F954E}"
